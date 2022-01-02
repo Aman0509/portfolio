@@ -39,7 +39,7 @@ a:hover{
 }
 
 .quotes{
-    background-image:  url(static/quote.png);
+    background-image:  url(images/quote.png);
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
